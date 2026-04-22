@@ -1,0 +1,1 @@
+# BattleZone Backend\nUpload firebase service account if needed.
